@@ -1,2 +1,62 @@
-# credit_risk_project
-implementation of a domain-specific RAG (Retrieval-Augmented Generation) system designed to assist credit analysts, risk officers, and loan underwriters in interpreting internal lending policies for various financial products.
+# Credit Risk Policy Assistant using Retrieval-Augmented Generation (RAG)
+
+This project demonstrates a practical implementation of a domain-specific RAG (Retrieval-Augmented Generation) system designed to assist credit analysts, risk officers, and loan underwriters in interpreting internal lending policies for various financial products.
+
+## Problem Statement
+
+Credit underwriting processes in banks and financial institutions rely on complex, document-based policies that are often difficult to query or interpret consistently. Large Language Models (LLMs) struggle with such proprietary knowledge that isn't part of their training data, leading to hallucinations or incomplete answers.
+
+This project showcases how Retrieval-Augmented Generation (RAG) can be used to:
+
+- Retrieve relevant internal policy information in real-time
+- Provide grounded, explainable responses to credit-related queries
+- Support cross-sector credit risk management (e.g., personal loans, auto finance, SME lending)
+
+## Project Highlights
+
+- **Domain**: Credit Risk and Regulatory Lending Policies
+- **Tech Stack**: LangChain · FAISS · SentenceTransformers · OpenAI API · Python
+- **Use Cases**:
+  - Eligibility checks
+  - Affordability assessment (CONC 5.2A compliance)
+  - Escalation routing based on approval matrices
+  - Risk flag detection
+  - Data privacy awareness (UK GDPR-style logic)
+
+## Dataset
+
+The dataset consists of **synthetic credit policy documents** inspired by:
+- UK Financial Conduct Authority (FCA) CONC regulations
+- GDPR principles for customer data handling
+- Standard operating procedures across UK lending institutions
+
+See `/data/` for:
+- `personal_loans_policy.txt`
+- `auto_loans_policy.txt`
+- `sme_lending_policy.txt`
+- `risk_flags_and_exceptions.txt`
+- `approval_matrix.txt`
+- `privacy_and_data_use_policy.txt`
+
+## Components
+
+- **Document Chunking & Embedding**: Semantic text splitting + vector indexing with FAISS
+- **Query Handling**: LangChain-based retrieval pipeline with dynamic prompting
+- **Evaluation**: Qualitative comparison of LLM vs RAG performance on complex, policy-grounded queries
+
+## Potential Applications
+
+- Retail banking loan assistant
+- SME risk review system
+- Auto finance eligibility chatbot
+- Internal audit traceability tools
+
+## Future Work
+
+- Incorporate real-time transaction feeds via Open Banking
+- Extend to insurance and leasing policies
+- Add a Streamlit front-end for deployment
+
+---
+
+ For collaboration or feedback, feel free to open an issue or connect via LinkedIn.
