@@ -1,0 +1,11 @@
+Title: Credit Risk Approval Matrix
+Effective Date: 1 June 2025
+
+Approval thresholds for personal loan applications:
+
+- Score ≥ 620, Loan ≤ £10,000 → Auto-approval (system decision)
+- Score 580–619 or Loan > £10,000 → Tier-2 Underwriter review
+- Score < 580 or Loan > £25,000 → Tier-3 Senior Credit Officer approval
+- Any exception to income requirements or irregular profile → Escalation to Credit Committee
+
+All approvals must be logged with rationale, evidence, and decision authority.

@@ -1,0 +1,16 @@
+Title: Risk Indicators and Exception Handling
+Effective Date: 1 June 2025
+
+High-risk flags include:
+- Irregular income (e.g., seasonal, gig work)
+- Multiple credit inquiries within 3 months
+- Debt-to-income ratio > 50%
+- History of late payments or defaults
+
+Policy Exceptions:
+- Applicants with low score (580–619) may be considered if:
+   - Monthly income > £2,000 and
+   - Debt-to-income ratio < 35%, or
+   - A guarantor is available
+
+All exceptions must be documented with justification and approved by Tier-2 or above.

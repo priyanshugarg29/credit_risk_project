@@ -1,0 +1,51 @@
+Title: Auto Loan Credit Policy – Internal Lending Guidelines
+Version: v1.0
+Effective Date: 1 June 2025
+Department: Credit Risk and Underwriting
+Confidential – Internal Use Only
+
+Section 1: Eligibility Criteria
+
+1.1 Applicants must be UK residents aged between 21 and 65.
+
+1.2 Vehicle to be financed must be registered in the UK and less than 7 years old at the time of application.
+
+1.3 Maximum Loan-to-Value (LTV) ratio: 90% for new vehicles, 80% for used vehicles.
+
+1.4 Minimum credit score: 600
+   - Scores between 550–599 may be considered under manual review if additional collateral or guarantor is provided.
+
+1.5 Minimum income:
+   - Salaried: £1,500/month net
+   - Self-employed: £1,800/month verified via 6-month bank history
+
+Section 2: Affordability and Risk Assessment
+
+2.1 Monthly repayments must not exceed 35% of net monthly income.
+
+2.2 All loans subject to creditworthiness assessment per CONC 5.2A, including debt obligations and financial stability.
+
+2.3 High-risk vehicle types (e.g., high-performance, imported cars) may require additional checks or may be ineligible.
+
+Section 3: Approval Workflow
+
+3.1 Auto-decision:
+   - Credit score ≥ 600 and LTV ≤ 80%
+
+3.2 Tier-2 underwriter approval:
+   - Credit score 550–599 or LTV > 80% ≤ 90%
+
+3.3 Tier-3 or Committee review:
+   - Credit score < 550 or LTV > 90%
+
+Section 4: Documentation Requirements
+
+4.1 Vehicle invoice or sale agreement
+
+4.2 Proof of insurance
+
+4.3 Proof of address and valid UK driving license
+
+4.4 Income proof (3 months payslips or 6-month bank statement)
+
+End of Document

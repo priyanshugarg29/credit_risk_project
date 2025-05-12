@@ -1,0 +1,67 @@
+Title: Personal Loan Credit Policy – Internal Lending Guidelines
+Version: v1.0
+Effective Date: 1 June 2025
+Department: Credit Risk and Underwriting
+Confidential – Internal Use Only
+
+Section 1: Eligibility Criteria
+
+1.1 Applicants must be UK residents aged between 21 and 65 at the time of application.
+
+1.2 Minimum net monthly income: £1,200 for salaried individuals; £1,500 for self-employed (must be stable over 6 months).
+
+1.3 Minimum Experian Credit Score: 620
+   - Scores between 580–619 may be considered under manual review with strong supporting documentation.
+
+1.4 Employment must be:
+   - Salaried and permanent, or
+   - Self-employed with 12-month bank statement history or verified tax return
+
+1.5 Applicants must not have:
+   - More than 1 current unsecured loan exceeding £10,000
+   - Defaulted on any loan in the past 24 months
+   - More than 2 recent credit applications in the last 3 months
+
+Section 2: Affordability and Assessment Guidelines
+
+2.1 All applications are subject to a creditworthiness and affordability assessment in accordance with FCA CONC 5.2A.
+
+2.2 Disposable income after monthly loan repayments must be at least £300.
+
+2.3 Open Banking access may be requested to validate income and expenditure, subject to applicant consent.
+
+2.4 Essential expenses considered:
+   - Rent/mortgage
+   - Utility bills
+   - Dependents/childcare
+   - Minimum debt obligations
+
+2.5 Irregular income (e.g., bonuses, gig economy) should be discounted unless evidence of consistency over 6 months is provided.
+
+Section 3: Exceptions and Tiered Risk Approval
+
+3.1 If credit score is between 550–619, approval may be granted if:
+   - Collateral or guarantor is provided
+   - Income exceeds £2,000 net/month and affordability is clear
+
+3.2 Tiered Approval Workflow:
+   - Score ≥ 620 → Auto-decision
+   - Score 580–619 → Underwriter review required
+   - Score < 580 → Decline or escalate to Credit Committee with justification
+
+3.3 All manual overrides must include:
+   - Rationale
+   - Affordability evidence
+   - Authorizing officer signature
+
+Section 4: Document Requirements
+
+4.1 Salaried:
+   - Last 3 payslips
+   - Last 3 months bank statements
+
+4.2 Self-employed:
+   - Last 12 months bank statements
+   - Most recent self-assessment return or accountant certificate
+
+4.3 Proof of address and ID verification mandatory for all applicants.

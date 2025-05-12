@@ -1,0 +1,8 @@
+Title: Data Privacy and Consent Policy
+Effective Date: 1 June 2025
+
+Data collected for creditworthiness assessments is processed under Article 6(1)(b) of the UK GDPR.
+
+- Open Banking data may be accessed only with explicit customer consent.
+- All collected data must be stored securely and retained no longer than 12 months post-application, unless required for audit or legal purposes.
+- Customers may revoke consent at any time, triggering deletion of associated financial data unless legal obligations apply.
