@@ -15,7 +15,7 @@ This project showcases how Retrieval-Augmented Generation (RAG) can be used to:
 ## Project Highlights
 
 - **Domain**: Credit Risk and Regulatory Lending Policies
-- **Tech Stack**: LangChain · FAISS · SentenceTransformers · OpenAI API · Python
+- **Tech Stack**: LangChain · FAISS · SentenceTransformers · Gemini API · Python
 - **Use Cases**:
   - Eligibility checks
   - Affordability assessment (CONC 5.2A compliance)
