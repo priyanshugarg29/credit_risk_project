@@ -4,10 +4,10 @@ This Streamlit app is an AI-powered assistant for interpreting internal credit p
 It uses **Retrieval-Augmented Generation (RAG)** to answer queries based on simulated UK FCA-aligned credit policies.
 
 ##  Features
-- 💬 Ask questions about creditworthiness, approvals, risk flags, and exceptions
-- 🔍 Answers are grounded in real (simulated) policy documents
-- 🧠 Uses FAISS for retrieval and Gemini LLM for generation
-- 🖥️ Streamlit frontend with interactive input and downloadable results
+-  Ask questions about creditworthiness, approvals, risk flags, and exceptions
+-  Answers are grounded in real (simulated) policy documents
+-  Uses FAISS for retrieval and Gemini LLM for generation
+-  Streamlit frontend with interactive input and downloadable results
 
 ##  Sample Queries
 - What is the minimum income required for a personal loan?
